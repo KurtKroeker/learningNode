@@ -1,0 +1,23 @@
+{
+  "name": "kknodetutorial",
+  "version": "1.0.0",
+  "description": "Just my first node tutorial pushed to the npm registry",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KurtKroeker/learningNode.git"
+  },
+  "author": "kurtk <kpk5008@gmail.com> (energycap.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KurtKroeker/learningNode/issues"
+  },
+  "homepage": "https://github.com/KurtKroeker/learningNode#readme"
+}
